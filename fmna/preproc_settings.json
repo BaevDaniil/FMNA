@@ -1,0 +1,10 @@
+{
+    "path": "..\\stress\\",
+    "pattern": "mouse[1-9]+\\\\.*\\\\minian$",
+    "loading_data": ["C"],
+    "meta": {
+        "session": -2,
+        "animal": -3
+    },
+    "save_path" : "..\\stress_preprocessed"
+}
