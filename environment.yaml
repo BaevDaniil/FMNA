@@ -1,5 +1,6 @@
-name: d:\Lab projects\Mouse\FMNA\envs
+name: fmna
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - asciitree=0.3.3=py_2
@@ -111,4 +112,3 @@ dependencies:
   - pip:
       - pandas==2.0.3
       - tzdata==2024.1
-prefix: d:\Lab projects\Mouse\FMNA\envs
